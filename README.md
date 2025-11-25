@@ -1,11 +1,14 @@
-# solar-challenge-week1-
+#Financial-analysis-challenge-week1
+
 
 ### How to Set Up the Project (15-minute setup)
 
 bash
 # 1. Clone the repo
-git clone <your-repo-url>
-cd solar-challenge-week1
+git clone Financial-analysis-challenge-week1
+
+cd Financial-analysis-challenge-week1
+
 
 # 2. Create virtual environment
 python -m venv venv
